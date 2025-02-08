@@ -91,3 +91,10 @@ https://colab.research.google.com/drive/1R2IiewRdR_odQ8RfFzBXmhkwVz0o3BZ_?usp=sh
 
 ---
 
+![image](https://github.com/user-attachments/assets/2ef7e028-8553-4129-8920-1c430f4c69d3)
+
+**AutoMET - Facilitating Hands-on Activities for Satellite Meteorology Training:**
+
+https://github.com/diegormsouza/automet
+
+---
