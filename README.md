@@ -73,6 +73,8 @@ https://colab.research.google.com/drive/1Z_qiEpc_e2jNaGZymZe0QEkgXt06PUm6?usp=sh
 
 https://colab.research.google.com/drive/1pdfDeRmtJGsZGEgFq9ujCj1jBl1li4je?usp=sharing
 
+https://moodle.cptec.inpe.br/course/view.php?id=28
+
 ---
 
 ![image](https://github.com/user-attachments/assets/961d79d1-21de-4924-b16b-dd61ce7e4b4d)
@@ -80,6 +82,8 @@ https://colab.research.google.com/drive/1pdfDeRmtJGsZGEgFq9ujCj1jBl1li4je?usp=sh
 **Tracking and Analysis of Thunderstorms (Portuguese):**
 
 https://colab.research.google.com/drive/1xMy07X1HUvgAtKdoUppIgZp4PVZ3DnOd?usp=sharing
+
+https://moodle.cptec.inpe.br/course/view.php?id=33
 
 ---
 
